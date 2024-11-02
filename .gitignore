@@ -11,10 +11,13 @@ env/
 htmlcov/
 .coverage*
 .DS_Store
-.vscode/
 .eggs
 _repo_version.py
 coverage.xml
 junit/
 htmldocs/
 utils/docker/dist/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
